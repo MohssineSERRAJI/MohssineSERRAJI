@@ -1,0 +1,73 @@
+{
+  "description": "I have worked with many evolving projects as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events.",
+  "header_image_path": "experience.svg",
+  "sections": [
+    {
+      "title": "Work",
+      "experiences": [
+        {
+          "title": "Junior Data Scientist",
+          "company": "X-FAB",
+          "company_url": "https://www.xfab.com/",
+          "logo_path": "logo-xfab.png",
+          "duration": "Sep 2021 - PRESENT",
+          "location": "Corbeil-Essonnes, France",
+          "description": "I am currently working on Creating AI models for Prediction.",
+          "color": "#9b1578"
+        }
+      ]
+    },
+    {
+      "title": "Internships",
+      "experiences": [
+        {
+          "title": "Data Science Research Intern",
+          "company": "Faculte Polytechnique de Mons",
+          "company_url": "https://web.umons.ac.be/fpms/en/",
+          "logo_path": "mons-logo.png",
+          "duration": "Apr 2021 - Aug 2021",
+          "location": "Mons, Walloon Region, Belgium",
+          "description": "I have worked on a project for image segmentation using Deep Learning techniques for the problem of coronary artery disease based on real data.",
+          "color": "#ee3c26"
+        },
+        {
+          "title": "Full Stack Developer",
+          "company": "Moroccan Airports Authority",
+          "company_url": "https://www.onda.ma/",
+          "logo_path": "moroco-logo.jpg",
+          "duration": "Apr 2019 - May 2019",
+          "location": "Casablanca, Morocco",
+          "description": "I have worked on a project for Two-month end-of-study project internship at the national airports office during which I created the application that manages airport resources developed in JavaFX as well an application that displays flight information to the various dedicated screens developed in Framework Electron.",
+          "color": "#ee3c26"
+        }
+      ]
+    },
+    {
+      "title": "Volunteerships",
+      "experiences": [
+        {
+          "title": "Google Developers Group",
+          "company": "Google",
+          "company_url": "https://developers.google.com/community/gdg",
+          "logo_path": "gdg-logo.jpg",
+          "duration": "Sep 2019 - Jan 2021",
+          "location": "Settat, Morocco",
+          "description": "We plan and host meetup events on a wide range of technical topics",
+          "color": "#ee3c26"
+        },
+        {
+          "title": "Developer Student Clubs",
+          "company": "Google",
+          "company_url": "https://gdsc.community.dev/",
+          "logo_path": "dsc-logo.jpg",
+          "duration": "Oct 2019 - Jan 2021",
+          "location": "Casablanca, Morocco",
+          "description": "DSC Ensam for a goal of helping the students of ensam in technology; everything from the Android, Chrome, Drive, and Google Cloud platforms, to product APIs like the Cast API, Maps API, and YouTube API.",
+          "color": "#ee3c26"
+        }
+      ]
+    }
+  ],
+  "subtitle": "Work, Internship and Volunteership",
+  "title": "Experience"
+}

@@ -1,0 +1,86 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzNTIxMjEwMDg=",
+      "name": "Protect-industrial-networks",
+      "createdAt": "2021-03-27T16:26:58Z",
+      "url": "https://github.com/MohssineSERRAJI/Protect-industrial-networks",
+      "description": "Construction of a Deep Learning model for the detection of attacks in industrial networks using Keras, TensorFlow, Pandas, Numpy, Matplotlib, Seaborn and the deployment of the model with Flask.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMzY2NDg1NjU=",
+      "name": "CNN_Clasification_bark101",
+      "createdAt": "2021-02-06T22:18:38Z",
+      "url": "https://github.com/MohssineSERRAJI/CNN_Clasification_bark101",
+      "description": "An implementation of Classification approaches using CNN models with Tensorflow on Bark-101 Dataset.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzNjY1NjUzNDk=",
+      "name": "data-scienst-certif",
+      "createdAt": "2021-05-12T02:07:37Z",
+      "url": "https://github.com/MohssineSERRAJI/data-scienst-certif",
+      "description": "This repository contains all the resources in IBM Data Science Professional Certification.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzNTQwNTY3ODc=",
+      "name": "InstaAPI",
+      "createdAt": "2021-04-02T15:20:14Z",
+      "url": "https://github.com/MohssineSERRAJI/InstaAPI",
+      "description": "Instagram API to collect comments on the subject of the death of President Jacques Chirac (image, text and comments linked to image)",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzNTM4MzY0OTk=",
+      "name": "sentiment_analysis",
+      "createdAt": "2021-04-01T21:59:43Z",
+      "url": "https://github.com/MohssineSERRAJI/sentiment_analysis",
+      "description": "NLP project for Sentiment Analysis",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    }
+  ]
+}
