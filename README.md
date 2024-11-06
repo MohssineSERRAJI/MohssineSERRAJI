@@ -8,8 +8,8 @@ Diving deep into the world of data, I am a highly accurate and experienced data 
 
 * 🌍  I'm based in France
 * 🖥️  See my portfolio at [Linkedin](http://linkedin.com/in/serraji/)
-* ✉️  You can contact me at [info@beautlli.com](mailto:info@beautlli.com)
-* 🧠  I'm learning GenAI |
+* ✉️  You can contact me at [Linkedin](http://linkedin.com/in/serraji/)
+* 🧠  I'm learning 🐍 Python | AI 
 * 🤝  I'm open to collaborating on AI SaaS
 
 🚀 Key Competencies:
